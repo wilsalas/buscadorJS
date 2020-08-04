@@ -1,0 +1,17 @@
+audio {
+    width: 100%;
+}
+
+img {
+    width: 20%;
+}
+
+#contenido {
+    height: 75vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.list-group-item:nth-child(1) {
+    background-color: #eeeeee;
+}
